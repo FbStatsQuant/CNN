@@ -319,6 +319,3 @@ Common augmentations for image classification:
 - Zeiler, M. D., & Fergus, R. (2014). Visualizing and understanding convolutional networks. *ECCV*.
 
 ---
-
-**Previous Lecture**: Weighted Loss for Imbalanced Classification  
-**Next Lecture**: Recurrent Neural Networks (RNN)
